@@ -16,7 +16,8 @@ long maximumSumSubarray(int K, vector<int> &Arr , int N){
         }
         max = sum;
         for (int i = 1; i<=N - K; i++){
-            sum = sum - Arr[i-1] + Arr[i+K-1];
+            sum = sum - Arr[i-1] + Arr[i+K-1];   // Sliding window - adding new elment and subtracting excluding element 
+            
             max = std::max(max, sum);
         }
         return max;
