@@ -1,9 +1,9 @@
-# Maximum SUM of subarray of length K
+# Trapping Rain Water
 
 ## [Problem Link ](https://leetcode.com/problems/trapping-rain-water/solutions/5620351/beats-100-0ms-2-pointer-sol-with-explaination/)
 
 
-![alt text](rain.png)
+![alt text](Images/rain.png)
 
 
 
