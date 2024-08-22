@@ -23,6 +23,11 @@ Output: 99
 
 ## Approach
 
+1. can be done by two loops find unique element
+2. can be done by sorting and then find non repeting element
+3. can be done by map by calculating frequency 
+4. optimal approach by bit manipulation -
+
 ![alt text](Images/3nplus1.png)
 
 
